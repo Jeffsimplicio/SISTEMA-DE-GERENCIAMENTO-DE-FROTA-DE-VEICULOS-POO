@@ -1,6 +1,6 @@
 # SISTEMA-DE-GERENCIAMENTO-DE-FROTA-DE-VEICULOS-POO
 
-[ERISLANIO JACO DA SILVA - 2025015203]	Domínio: Classes Veiculo, Herança, Mixins (AbastecivelMixin, ManutenivelMixin).
+[ERISLANIO JACO DA SILVA]	Domínio: Classes Veiculo, Herança, Mixins (AbastecivelMixin, ManutenivelMixin).
 [Nome do Membro 2]	Infraestrutura: Repositórios (JsonRepository), Leitura de settings.json.
 [Nome do Membro 3]	Serviço/Aplicação: FrotaService, Validações de CNH e Estados, Relatórios.
 
