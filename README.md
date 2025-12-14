@@ -1,7 +1,7 @@
 # SISTEMA-DE-GERENCIAMENTO-DE-FROTA-DE-VEICULOS-POO
 
 [ERISLANIO JACO DA SILVA]	Domínio: Classes Veiculo, Herança, Mixins (AbastecivelMixin, ManutenivelMixin).
-[Nome do Membro 2]	Infraestrutura: Repositórios (JsonRepository), Leitura de settings.json.
+[FRANCISCO JEFERSON SIMPLICIO DE SOUSA]	Infraestrutura: Repositórios (JsonRepository), Leitura de settings.json.
 [Nome do Membro 3]	Serviço/Aplicação: FrotaService, Validações de CNH e Estados, Relatórios.
 
    Sistema de Gerenciamento de Frota de Veículos (UFCA - ADS)
